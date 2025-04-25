@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm **Francesco Popescu**, a Full Stack Software Developer passionate about building scalable, high-performance web and blockchain applications.
 
+![alt text](<Francesco profile (2).png>)
+
 ### 🚀 What I Do
 
 - 💻 Full Stack Development (React, Next.js, TypeScript, Python, Django)
